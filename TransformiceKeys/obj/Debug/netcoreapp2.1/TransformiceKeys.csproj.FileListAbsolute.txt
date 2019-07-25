@@ -1,0 +1,11 @@
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\bin\Debug\netcoreapp2.1\TransformiceKeys.deps.json
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\bin\Debug\netcoreapp2.1\TransformiceKeys.runtimeconfig.json
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\bin\Debug\netcoreapp2.1\TransformiceKeys.runtimeconfig.dev.json
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\bin\Debug\netcoreapp2.1\TransformiceKeys.dll
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\obj\Debug\netcoreapp2.1\TransformiceKeys.csprojAssemblyReference.cache
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\obj\Debug\netcoreapp2.1\TransformiceKeys.csproj.CoreCompileInputs.cache
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\obj\Debug\netcoreapp2.1\TransformiceKeys.AssemblyInfoInputs.cache
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\obj\Debug\netcoreapp2.1\TransformiceKeys.AssemblyInfo.cs
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\bin\Debug\netcoreapp2.1\TransformiceKeys.pdb
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\obj\Debug\netcoreapp2.1\TransformiceKeys.dll
+C:\Users\accb1\source\repos\TransformiceKeys\TransformiceKeys\obj\Debug\netcoreapp2.1\TransformiceKeys.pdb
